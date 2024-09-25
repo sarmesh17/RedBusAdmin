@@ -14,12 +14,3 @@
 .cxx
 local.properties
 
-# Ignore IntelliJ/Android Studio files
-.idea/
-
-# Ignore build directories
-*/build/
-
-# Ignore Gradle wrapper files
-gradlew
-gradlew.bat
