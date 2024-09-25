@@ -17,17 +17,11 @@ local.properties
 # Ignore IntelliJ IDEA files
 .idea/
 
-# Ignore application directory
-app/
 
-# Ignore build script
-build.gradle.kts
 
 # Ignore Gradle properties
 gradle.properties
 
-# Ignore Gradle directory
-gradle/
 
 # Ignore Gradle wrapper scripts
 gradlew
